@@ -1,0 +1,22 @@
+#icon {
+  padding-left: 20%;
+}
+@media screen and (min-width: 600px) {
+  #mostImp {
+    padding-top: 5% !important;
+    padding-left: 10%;
+    text-align: left;
+  }
+  .card {
+    max-width: 90%;
+  }
+}
+@media screen and (max-width: 600px) {
+  .card {
+    max-width: 90%;
+  }
+  #mostImp {
+    padding-top: 5% !important;
+    padding-left: 10%;
+  }
+}

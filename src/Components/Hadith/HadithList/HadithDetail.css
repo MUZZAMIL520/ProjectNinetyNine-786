@@ -1,0 +1,121 @@
+#detail {
+  padding-top: 0%;
+  padding-bottom: 0%;
+  padding-right: 0%;
+  margin: 0%;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 0.9em;
+}
+#EnglishText {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 1.5em;
+}
+.hadithDetail {
+  border-radius: 25px;
+  border: 2px solid #73ad21;
+}
+#hadithText {
+  margin-right: 10%;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+#icon {
+    padding-left: 20%;
+  }
+  @media screen and (min-width: 600px) {
+    #mostImp {
+      padding-top: 5% !important;
+      padding-left: 10%;
+      text-align: left;
+    }
+    .card {
+      max-width: 90%;
+    }
+  }
+  @media screen and (max-width: 600px) {
+    .card {
+      max-width: 90%;
+    }
+    #mostImp {
+      padding-top: 5% !important;
+      padding-left: 10%;
+    }
+  }
+  
+  @-webkit-keyframes hvr-push {
+    50% {
+      -webkit-transform: scale(0.8);
+      transform: scale(0.8);
+    }
+    100% {
+      -webkit-transform: scale(1);
+      transform: scale(1);
+    }
+  }
+  @keyframes hvr-push {
+    50% {
+      -webkit-transform: scale(0.8);
+      transform: scale(0.8);
+    }
+    100% {
+      -webkit-transform: scale(1);
+      transform: scale(1);
+    }
+  }
+  .hvr-push {
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  }
+  .hvr-push:hover,
+  .hvr-push:focus,
+  .hvr-push:active {
+    -webkit-animation-name: hvr-push;
+    animation-name: hvr-push;
+    -webkit-animation-duration: 0.3s;
+    animation-duration: 0.3s;
+    -webkit-animation-timing-function: linear;
+    animation-timing-function: linear;
+    -webkit-animation-iteration-count: 1;
+    animation-iteration-count: 1;
+  }
+  #detail {
+    padding-top: 0%;
+    padding-bottom: 0%;
+    padding-right: 0%;
+    margin: 0%;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    font-size: 0.9em;
+  }
+  #EnglishText {
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    font-size: 1.5em;
+  }
+  .hadithDetail {
+    border-radius: 25px;
+    border: 2px solid #73ad21;
+  }
+  #hadithText {
+    margin-right: 10%;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  }
+  @media screen and (min-width: 600px) {
+    #mostImp {
+      padding-top: 5% !important;
+      padding-left: 10%;
+      text-align: left;
+    }
+  }
+  @media screen and (max-width: 600px) {
+    
+    #mostImp {
+      padding-top: 5% !important;
+      padding-left: 10%;
+    }
+  }
+  #hadithText {
+    margin-right: 10%;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  }
+  

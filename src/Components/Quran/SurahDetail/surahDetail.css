@@ -1,0 +1,82 @@
+#bismillah {
+    font-family: bismillah;
+    font-size: 60px;
+    color: #000;
+  }
+
+@font-face {
+    font-family: bismillah;
+    src: url(//assets-1f14.kxcdn.com/fonts/bismillah.eot);
+    src: url(//assets-1f14.kxcdn.com/fonts/bismillah.eot)
+  }
+  .bannerNav{
+    background: #741626; 
+  }
+
+  @media screen and (min-width: 600px) {
+    #mostImpSurah {
+     
+    }
+  }
+  @media screen and (max-width: 600px) {
+    
+    #mostImpSurah {
+      padding-left: 10%;
+    }
+    #bismillah {
+      font-family: bismillah;
+      font-size: 40px;
+      color: #000;
+    }
+    .arabicText{
+    font-size: 1.5em !important;
+    }
+    .times-new {
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      font-size: 1em !important;
+      
+    }
+  
+  }
+  .surahDetailDesign {
+   border-radius: 10px; 
+    border: 1px solid #73ad21;
+    margin: 0%;
+    }
+
+    .ArabicTextHead {
+      white-space: pre-line;
+      color: #000;
+      width: 100%;
+      overflow-wrap: break-word;
+      line-height: 1.5;
+      word-break: break-all;
+      text-align: right;
+      float: left;
+      font-family: QuranFont;
+      
+    }
+    @font-face {
+      font-family: "QuranFont";
+      src: url("../Utils/Font/_PDMS_Saleem_QuranFont.ttf") format("truetype"); /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
+    }
+    @font-face {
+      font-family: "Ayah";
+      src: url("../Utils/Font/MSHQ.TTF") format("truetype"); /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
+    }
+
+    ._3lGHjbOJzvx3DuyRwynz_u h4 {
+      color: #2ca4ab;
+      text-transform: uppercase;
+      font-size: 14px;
+      font-weight: 400;
+    }
+    @media (max-width: 600px) {
+      ._3lGHjbOJzvx3DuyRwynz_u h4 {
+        font-size: 10px;
+      }
+    }
+    .times-new {
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      font-size: 2em;
+    }

@@ -1,0 +1,18 @@
+.prayerCustomStyling{
+    color: rebeccapurple;
+    height: 100%;
+    width: 70%;
+    margin: auto;
+
+}
+.prayerForm{
+    height: auto;
+    text-align: center;
+    margin: auto;
+    padding: 2%;
+
+}
+.rft-pagination{
+    display: none;
+
+}

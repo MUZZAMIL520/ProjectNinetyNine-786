@@ -1,0 +1,64 @@
+{
+  "name": "nintynine",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "http://www.nintynine786.com",
+  "proxy": "http://api.aladhan.com/v1",
+  "dependencies": {
+    "@ant-design/icons": "^4.2.2",
+    "@brainhubeu/react-carousel": "^1.19.26",
+    "@coreui/icons-react": "^1.0.2",
+    "@coreui/react": "^3.3.3",
+    "@fortawesome/fontawesome-svg-core": "^1.2.32",
+    "@fortawesome/free-solid-svg-icons": "^5.15.1",
+    "@fortawesome/react-fontawesome": "^0.1.12",
+    "@testing-library/jest-dom": "^5.11.5",
+    "@testing-library/react": "^11.1.1",
+    "@testing-library/user-event": "^12.2.0",
+    "antd": "^4.8.0",
+    "firebase": "^8.0.1",
+    "joi-browser": "^13.4.0",
+    "react": "^17.0.1",
+    "react-bootstrap": "^1.4.0",
+    "react-confirm-alert": "^2.6.2",
+    "react-dom": "^17.0.1",
+    "react-fa": "^5.0.0",
+    "react-flexy-table": "^1.5.8",
+    "react-jinke-music-player": "^4.19.1",
+    "react-joi-validation": "^1.7.0",
+    "react-loader-spinner": "^3.1.14",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^4.0.0",
+    "react-scroll": "^1.8.1",
+    "react-slick": "^0.27.13",
+    "scss": "^0.2.4",
+    "web-vitals": "^0.2.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "bootstrap": "^4.0.0-beta"
+  }
+}

@@ -1,0 +1,56 @@
+@media screen and (max-width: 360px) {
+    
+  footer{
+    background-color: #006400;
+    color: #ffffff;
+  }
+
+  }
+  .header-container {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    align-items: center;
+  }
+  
+  .ant-menu-dark.ant-menu-horizontal {
+    line-height: 64px;
+  }
+  
+  
+  #admin{
+    margin-left: 6em;
+    margin-right: 7em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: white;
+    }
+    #admin:hover{
+    color: #739b73;
+    }
+  
+  .navDrop{
+    margin-left: 0.8em;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    font-weight:400;
+      color: white;
+      cursor: pointer;
+     
+  }
+  .navDrop:hover{
+    color: #739b73;
+  }
+  
+  #hadith{
+    margin-left: 0.7em;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     font-weight: 400;
+      font-size: 18px;
+      color: white;
+      cursor: pointer;
+  }
+  #hadith:hover{
+    color: #739b73;
+  }
